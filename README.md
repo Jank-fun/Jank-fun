@@ -1,4 +1,7 @@
 ## Hi there 👋
+- Studying computers 🧑‍💻.
+- Learning java 🍵.
+- My best friend Travis --->🙋.
 
 <!--
 **Jank-fun/Jank-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
